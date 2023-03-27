@@ -1,0 +1,32 @@
+.boton {
+    min-height: 40px;
+    height: 85px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    background-color: #060606;
+    color: white;
+    border: 0.1px solid #333;
+    user-select: none;
+}
+
+.equals {
+    background-color: #134369;
+}
+
+.equals:hover  {
+    background-color: #104050 !important;
+}
+
+.operador {
+    background-color: #131313;
+}
+
+.boton:hover {
+    background-color: #131313;
+}
+
+.operador:hover {
+    background-color: #060606 !important;
+}

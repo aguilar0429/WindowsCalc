@@ -1,0 +1,7 @@
+{
+  "name": "Windows 10 Calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
